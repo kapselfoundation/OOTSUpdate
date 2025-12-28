@@ -7,17 +7,17 @@ The first release
 
 Hope you enjoy!
 
-##Blocks
+## Blocks
 
 - Added cyan roses from Pocket Edition!
 
-##Items
+## Items
 
 - Added beef into the game, dropped by cows!
 - Made food items stack up to 8!
 
 
-##Misc
+## Misc
 
 - Added a tutorial level (thx 4njooo for the map)!
 - Applied the unused fluff.png texture to clouds!
