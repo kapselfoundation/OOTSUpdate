@@ -1,8 +1,8 @@
 # Title of your site (displayed in the header)
-title: Minecraft News
+title: Order of the Stone News
 
 # Short bio or description (displayed in the header)
-description: Unofficial Minecraft update news. Serves as an updated version of the old MCUpdate blog.
+description: News blog regarding the development of the Order of the Stone mod for Minecraft Alpha.
 
 #
 # Flags below are optional
@@ -10,7 +10,7 @@ description: Unofficial Minecraft update news. Serves as an updated version of t
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://halotroop2288.github.io/
+url: https://kapselfoundation.github.io/
 
 wiki-url: https://minecraft.wiki/w/
 
@@ -18,7 +18,7 @@ wiki-url: https://minecraft.wiki/w/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/MCUpdate"
+baseurl: "/OOTSUpdate"
 
 permalink: /post/:year:month:day/:title:output_ext
 
